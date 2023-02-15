@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-test-1"
+  site-url: "https://DILIP-RAMGOPAL.github.io/nbdev-test-1"
+  description: "testing nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/DILIP-RAMGOPAL/nbdev-test-1"
