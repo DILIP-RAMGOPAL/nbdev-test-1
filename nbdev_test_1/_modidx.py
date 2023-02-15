@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://DILIP-RAMGOPAL.github.io',
                 'git_url': 'https://github.com/DILIP-RAMGOPAL/nbdev-test-1',
                 'lib_path': 'nbdev_test_1'},
-  'syms': {'nbdev_test_1.core': {'nbdev_test_1.core.foo': ('core.html#foo', 'nbdev_test_1/core.py')}}}
+  'syms': { 'nbdev_test_1.core': {'nbdev_test_1.core.foo': ('core.html#foo', 'nbdev_test_1/core.py')},
+            'nbdev_test_1.temp_nbdev': {'nbdev_test_1.temp_nbdev.add': ('temp_nbdev.html#add', 'nbdev_test_1/temp_nbdev.py')}}}
